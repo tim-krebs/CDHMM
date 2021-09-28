@@ -177,5 +177,7 @@ double CDHMM::Backward_Algorithm(int length_event, std::vector<int> &state, std:
 
 double CDHMM::Baum_Welch_Algorithm()
 {
+    double likelihood =0;
 
+    return likelihood;
 }
