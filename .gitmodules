@@ -1,0 +1,9 @@
+[submodule "external/linalg"]
+	path = external/linalg
+	url = https://github.com/sgorsten/linalg.git
+	branch = master
+
+[submodule "external/loguru"]
+	path = external/loguru
+	url = https://github.com/emilk/loguru.git
+	branch = master
